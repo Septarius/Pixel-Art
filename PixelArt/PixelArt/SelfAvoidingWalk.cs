@@ -13,7 +13,7 @@ using Utility;
 
 namespace PixelArt
 {
-    class SelfAvoidingWalk
+    class RandomDFS
     {
         int LINE_THICKNESS = 1; //thickness of the lines; 2 default
         int ITERATIONS_PER_FRAME = 15; //increase to increase the speed; 7 default
@@ -76,7 +76,7 @@ namespace PixelArt
         }
 
 
-        public SelfAvoidingWalk()
+        public RandomDFS()
         {
             for (int x = 0; x < GridData.GetLength(0); x++)
             {
@@ -154,7 +154,7 @@ namespace PixelArt
 
                 for (int i = 0; i < ITERATIONS_PER_FRAME; i++)
                 {
-                    SAW();
+                    RDFS();
                 }
 
                 if (JITTER)
@@ -224,7 +224,7 @@ namespace PixelArt
         }
         bool justPopped = false;
 
-        private void SAW()
+        private void RDFS()
         {
             List<Point> uneighbors = GetUnvisitedNeighbors(current);
 

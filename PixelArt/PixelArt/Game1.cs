@@ -18,7 +18,7 @@ namespace PixelArt
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
         Grid grid;
-        SelfAvoidingWalk sw;
+        RandomDFS sw;
         MouseState pMs;
         
 
@@ -47,7 +47,7 @@ namespace PixelArt
             Line.CreateTexture(GraphicsDevice);
             Config.LoadContent(Content, GraphicsDevice);
             grid = new Grid();
-            sw = new SelfAvoidingWalk();
+            sw = new RandomDFS();
             pMs = Mouse.GetState();
         }
 
