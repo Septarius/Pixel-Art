@@ -1,1 +1,2 @@
 C:\Users\Talon\documents\visual studio 2010\Projects\PixelArt\PixelArt\PixelArtContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Talon\Dropbox\Git\PixelArt\PixelArt\PixelArtContent\obj\x86\Debug\ResolveAssemblyReference.cache

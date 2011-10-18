@@ -13,7 +13,7 @@ namespace PixelArt
 {
     public class Game1 : Microsoft.Xna.Framework.Game
     {
-        const bool SCREENSAVER = !false;
+        const bool SCREENSAVER = false;
 
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
@@ -25,8 +25,8 @@ namespace PixelArt
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
-            Config.ResolutionWidth = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Width;
-            Config.ResolutionHeight = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Height;
+            //Config.ResolutionWidth = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Width;
+            //Config.ResolutionHeight = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Height;
 
             graphics.PreferredBackBufferWidth = Config.ResolutionWidth;
             graphics.PreferredBackBufferHeight = Config.ResolutionHeight;

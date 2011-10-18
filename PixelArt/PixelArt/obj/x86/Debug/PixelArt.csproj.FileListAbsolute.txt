@@ -6,3 +6,9 @@ C:\Users\Talon\documents\visual studio 2010\Projects\PixelArt\PixelArt\PixelArt\
 C:\Users\Talon\documents\visual studio 2010\Projects\PixelArt\PixelArt\PixelArt\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Talon\documents\visual studio 2010\Projects\PixelArt\PixelArt\PixelArt\obj\x86\Debug\PixelArt.exe
 C:\Users\Talon\documents\visual studio 2010\Projects\PixelArt\PixelArt\PixelArt\obj\x86\Debug\PixelArt.pdb
+C:\Users\Talon\Dropbox\Git\PixelArt\PixelArt\PixelArt\bin\x86\Debug\PixelArt.exe
+C:\Users\Talon\Dropbox\Git\PixelArt\PixelArt\PixelArt\bin\x86\Debug\PixelArt.pdb
+C:\Users\Talon\Dropbox\Git\PixelArt\PixelArt\PixelArt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Talon\Dropbox\Git\PixelArt\PixelArt\PixelArt\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Talon\Dropbox\Git\PixelArt\PixelArt\PixelArt\obj\x86\Debug\PixelArt.exe
+C:\Users\Talon\Dropbox\Git\PixelArt\PixelArt\PixelArt\obj\x86\Debug\PixelArt.pdb

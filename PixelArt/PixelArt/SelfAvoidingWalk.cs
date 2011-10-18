@@ -19,7 +19,7 @@ namespace PixelArt
         int ITERATIONS_PER_FRAME = 15; //increase to increase the speed; 7 default
         static int SCALE = 15; //lower number = more grid points; 15 default
         float JITTERINESS = .67f; //number between 0f and 1f; 0 is more rigid, 1 is more jittery; (greater than 1f causes extreme jitter) .67f default
-        bool JITTER = !true;
+        bool JITTER = true;
         int JITTER_SPEED = 1; //lower number = faster. between 1 and infinity
         bool DRAW_POINTS = false; //whether or not to draw points; false default
         float MIN_ALPHA = .5f;// minimum alpha value. between 0 and 1
@@ -211,7 +211,7 @@ namespace PixelArt
             thicknesses.Shuffle();
             LINE_THICKNESS = thicknesses[Random.Next(thicknesses.Count)]; //thickness of the lines; 2 default
 
-            ITERATIONS_PER_FRAME = (int)RandomRange(1, 50); //increase to increase the speed; 7 default
+            ITERATIONS_PER_FRAME = (int)RandomRange(1, 100); //increase to increase the speed; 7 default
             SCALE = (int)RandomRange(15, 30); ; //lower number = more grid points; 15 default
             JITTERINESS = RandomRange(0f, .7f); ; //number between 0f and 1f; 0 is more rigid, 1 is more jittery; (greater than 1f causes extreme jitter) .67f default
             int choice = Random.Next(100);
