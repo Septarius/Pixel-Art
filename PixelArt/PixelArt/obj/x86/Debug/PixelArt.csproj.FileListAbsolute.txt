@@ -1,0 +1,8 @@
+C:\Users\Talon\documents\visual studio 2010\Projects\PixelArt\PixelArt\PixelArt\bin\x86\Debug\PixelArt.exe
+C:\Users\Talon\documents\visual studio 2010\Projects\PixelArt\PixelArt\PixelArt\bin\x86\Debug\PixelArt.pdb
+C:\Users\Talon\documents\visual studio 2010\Projects\PixelArt\PixelArt\PixelArt\bin\x86\Debug\TalonTools4.dll
+C:\Users\Talon\documents\visual studio 2010\Projects\PixelArt\PixelArt\PixelArt\bin\x86\Debug\TalonTools4.pdb
+C:\Users\Talon\documents\visual studio 2010\Projects\PixelArt\PixelArt\PixelArt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Talon\documents\visual studio 2010\Projects\PixelArt\PixelArt\PixelArt\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Talon\documents\visual studio 2010\Projects\PixelArt\PixelArt\PixelArt\obj\x86\Debug\PixelArt.exe
+C:\Users\Talon\documents\visual studio 2010\Projects\PixelArt\PixelArt\PixelArt\obj\x86\Debug\PixelArt.pdb
